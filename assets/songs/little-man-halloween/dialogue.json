@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I feel like the only reason why you are forcing us to rap battle is because of your own benefit."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The benefit of being better than the others, the feeling that you will never have in your sad pathetic life."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She’s probably fucking another dude right now, you will never live up to her expectations."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The only reason why you are rap battling is to not feel hollow within yourself, which even then is not helping with anything, is it?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You live day in and day out being sought out by your girlfriends parents and almost being murdered by them, you live a sad life and it will never get better."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "littleman",
+			"boxState": "normal",
+			"expression": "littleman_mad",
+			"text": "You are not a good person and never will be, rap battling others for your own personal benefit to fix your petty little life, fuck you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi guys"
+		}
+	]
+}
